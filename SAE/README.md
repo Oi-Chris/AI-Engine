@@ -23,6 +23,8 @@ NOTE: This project was developed in PyCharm. For best results, please import the
 4. Open http://127.0.0.1:5000/ in a browser window. The app should be fully functional!</br>
 5. Any searches you perform will save local files, such as .csvs and .pngs, to the following directory:
 	{project directory}/static/{topic searched}
+	
+Requiremnet: Will need an active developer Twitter account to access their API's
 
 NOTE: if any NLTK errors arise, you may have to install the 'punkt' NLTK tokenizers.</br>
 1. In the project .zip, you should see "punkt.zip"</br>

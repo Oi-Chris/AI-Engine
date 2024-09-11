@@ -3,5 +3,5 @@ Sentiment Analysis Engine applying machine learning software to analyze sentimen
 
 To get this project to work, you will need to access to Twitter API and input your credentials.
 
-Hit me up. I will actually go over this with you. I need practice communicating.
+Hit me up, can discuss about this application works.
 
